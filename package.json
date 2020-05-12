@@ -1,7 +1,7 @@
 {
   "name": "few1.2-final",
   "version": "0.1.0",
-  "homepage": "https://stasi815.github.io/AG-FEW-Final-Assessment",
+  "homepage": "http://remotedevotion.com/AG-FEW-Final-Assessment/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

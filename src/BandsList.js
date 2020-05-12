@@ -13,7 +13,7 @@ function BandList() {
                 formed = { formed }
                 origin = { origin }
                 style=  { style }
-                split = { split }  
+                split = { split }
                 fans = { fans }
             />
         )
